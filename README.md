@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Krishnachaitanya-learn
 - 👀 I’m interested in Web Development and Android Development
-- 🌱 I’m currently learning Android also node
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Android Development, Unity Game Dev
+- 💞️ I’m looking to collaborate on WebDev projects
 - 📫 How to reach me krishnachaitanyayerrapatruni@gmail.com
 
 <!---
