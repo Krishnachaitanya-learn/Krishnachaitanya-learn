@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Krishnachaitanya-learn
-- 👀 I’m interested in Web Development and Android Development
-- 🌱 Familiar with Android Development, Unity Game Dev
-- 🌱Currently working on ML
-- 💞️ I’m looking to collaborate on WebDev projects
+- 👋 Hi, I’m Krishna Chaitanya Yerrapathruni.
+- 👀 I’m interested in Web Development.
+- 🌱 Familiar with Android Development, Unity Game Dev and ML.
+- 🌱Currently working on ASP.net core project.
+- 💞️ I’m looking to collaborate on WebDev projects.
 - 📫 How to reach me krishnachaitanyayerrapatruni@gmail.com
 
 <!---
